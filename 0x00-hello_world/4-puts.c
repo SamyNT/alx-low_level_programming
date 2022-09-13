@@ -1,13 +1,12 @@
 #include <stdio.h>
 /**
- * main-Entry
- *   * 
- *    *This program prints text
- *     *Return always zero
+ * main - Entry point
+ *   *
+ *    * Return: always 0
  */
 int main(void)
-
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
+
