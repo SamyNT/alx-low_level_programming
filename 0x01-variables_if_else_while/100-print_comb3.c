@@ -13,7 +13,7 @@ int main(void)
 
 	while (i <= 57)
 	{
-		j = i;
+		j = i+1;
 		while (j <= 57)
 		{
 			putchar(i);
@@ -28,4 +28,5 @@ int main(void)
 		i++;
 	}
 	putchar('\n');
+	return (0);
 }
