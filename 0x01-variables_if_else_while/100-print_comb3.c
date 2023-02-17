@@ -13,12 +13,12 @@ int main(void)
 
 	while (i <= 57)
 	{
-		j = i+1;
+		j = i + 1;
 		while (j <= 57)
 		{
 			putchar(i);
 			putchar(j);
-			if (j != 57 || i != 57)
+			if (j != 57 || i != 56)
 			{
 				putchar(',');
 				putchar(' ');
