@@ -18,7 +18,7 @@ int main(void)
 			k = i;
 			while (k <= 57)
 			{
-				l = j + 1;
+				l = j;
 				while (l <= 57)
 				{
 					putchar(i);
