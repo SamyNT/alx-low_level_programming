@@ -1,1 +1,1 @@
- Debugging project
+read me for functions
