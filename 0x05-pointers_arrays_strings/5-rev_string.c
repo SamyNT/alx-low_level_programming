@@ -1,13 +1,13 @@
 #include "main.h"
 /**
- * print_rev - main function
+ * rev_string - main function
  * Description: reverses a string
  *
  *
  *@s: input string
  * Return: void
  */
-void print_rev(char *s)
+void rev_string(char *s)
 {
 	int count, i;
 	char temp;
@@ -17,17 +17,10 @@ void print_rev(char *s)
 	{
 		count++;
 	}
-	for (i = 1; i < count/2; i++)
+	for (i = 0; i < count / 2; i++)
 	{
 		temp = *(s + i);
 		*(s + i) = *(s + count - 1 - i);
 		*(s + count - 1 - i) = temp;
 	}
-
-	while (*s != '\0')
-	{
-		_putchar(*s);
-		s++;
-	}
-	_putchar('\n');
 }
