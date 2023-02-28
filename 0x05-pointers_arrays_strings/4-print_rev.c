@@ -9,8 +9,7 @@
  */
 void print_rev(char *s)
 {
-	int count, i;
-	char temp;
+	int count;
 
 	count = 0;
 	while (*(s + count) != '\0')
