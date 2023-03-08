@@ -21,22 +21,23 @@ int main(void)
 				l = 48;
 				while (l <= 57)
 				{
+					int ij10 = (i - 48) * 10 + (j - 48);
 
 					int kl10 = (k - 48) * 10 + (l - 48);
 
-					int ij10 = (i - 48) * 10 + (j - 48);
-
-					int cond = i != 57 || j != 56 || k != 57 || l != 5;
-
-					if (kl10 > ij10 && cond)
+					if (kl10 > ij10)
 					{
 						putchar(i);
 						putchar(j);
 						putchar(' ');
 						putchar(k);
 						putchar(l);
-						putchar(',');
-						putchar(' ');
+
+						if (i != 57 || j != 56 || k != 57 || l != 57)
+						{
+							putchar(',');
+							putchar(' ');
+						}
 					}
 					l++;
 				}
