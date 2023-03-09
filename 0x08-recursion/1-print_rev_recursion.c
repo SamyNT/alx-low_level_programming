@@ -13,18 +13,18 @@
 void reverse(char *s)
 {
 
-	if (*s != '\0')
+	if (*s)
 	{
-		reverse(++s);
+		reverse(s + 1);
 	}
 	_putchar(*s);
 }
-/*
+/**
  * _print_rev_recursion - main function
  * Description: Prints a String
  */
 void _print_rev_recursion(char *s)
 {
 	reverse(s);
-	_putchar('\n');
+	/*_putchar('\n');*/
 }
