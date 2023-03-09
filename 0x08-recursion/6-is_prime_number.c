@@ -9,11 +9,13 @@
  */
 int factors(int n, int start)
 {
-	if (n == start)
-		return (0);
-	else if (n % start == 0)
+	if (start == n)
 		return (1);
-	return (factors(n, start + 1));
+	else if (n % start == 0 || start < 2)
+		return (0);
+	else if (n > start)
+		return (factors(n, start + 1));
+	return (0);
 }
 
 /**
@@ -26,5 +28,5 @@ int factors(int n, int start)
 
 int is_prime_number(int n)
 {
-	return (factors(2, n));
+	return (factors(n, 2));
 }
