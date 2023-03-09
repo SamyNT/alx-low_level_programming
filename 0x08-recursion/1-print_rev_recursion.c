@@ -22,6 +22,7 @@ void reverse(char *s)
 /**
  * _print_rev_recursion - main function
  * Description: Prints a String
+ * @s: same as above
  */
 void _print_rev_recursion(char *s)
 {
