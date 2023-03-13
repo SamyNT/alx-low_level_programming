@@ -27,7 +27,7 @@ char *str_concat(char *s1, char *s2)
 	if (new_str != NULL)
 	{
 		strcpy(new_str, s1);
-		strcpy(new_str, s2);
+		strcat(new_str, s2);
 		return (new_str);
 	}
 	return (NULL);
