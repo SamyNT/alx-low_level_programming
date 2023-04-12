@@ -1,0 +1,5 @@
+*main.c
+Requiescat
+fileio.c
+*.out
+{a..z}
