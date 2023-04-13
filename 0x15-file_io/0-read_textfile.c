@@ -9,7 +9,7 @@
 */
 ssize_t read_textfile(const char *filename, size_t letters)
 {
-	int fd, wrstatus;
+	int fd, written;
 	size_t printed;
 	char c;
 
@@ -24,8 +24,8 @@ ssize_t read_textfile(const char *filename, size_t letters)
 		c = (read(fd, &c, 1) == 1) ? (unsigned char) c : EOF;
 		if (c != EOF)
 		{
-			wrstatus = write(1, &c, 1);
-			if (wrstatus != 1)
+			written = write(STDOUT_FILENO, &c, 1);
+			if (written != 1)
 				return (0);
 		}
 		else
