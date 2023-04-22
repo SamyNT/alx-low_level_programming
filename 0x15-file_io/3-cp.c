@@ -69,7 +69,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-e02fbd99580b.js"></script>
   
 
-  <title>alx-low_level_programming/main.h at master · sammykingx/alx-low_level_programming · GitHub</title>
+  <title>alx-low_level_programming/3-cp.c at master · sammykingx/alx-low_level_programming · GitHub</title>
 
 
 
@@ -79,7 +79,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="5483:773D:1E3133E:1EDB5E5:64436D98" data-pjax-transient="true"/><meta name="html-safe-nonce" content="8078781a7fc733f7cd9ddb23cf7e1d920641acea0f453ebc93bc67877d0ae632" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI1NDgzOjc3M0Q6MUUzMTMzRToxRURCNUU1OjY0NDM2RDk4IiwidmlzaXRvcl9pZCI6Ijg1NjM4NzY5Nzk4NTI2NjgzMTMiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="22ffbc932f8133341516228a8bd6747e04d74f60c3c5cc3a44d38fc2d5ca7c1e" data-pjax-transient="true"/>
+  <meta name="request-id" content="2731:7C86:3D9B89:3F4EC5:64436E4E" data-pjax-transient="true"/><meta name="html-safe-nonce" content="29b8198c5db38aa0bc0b25f3cb2d25b618bb0435a30d96ee7f4bfa851f4c36f1" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIyNzMxOjdDODY6M0Q5Qjg5OjNGNEVDNTo2NDQzNkU0RSIsInZpc2l0b3JfaWQiOiI0MTM1Mjk0NjM4NTQ4NTQ1MTAyIiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiZnJhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="36aa1a6856037303d002a23c3a0b7ac1eacf6eeaf74caf709a83a869e1cccb59" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:499335676" data-turbo-transient>
@@ -113,13 +113,13 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Starting my C Programming journey with some basic C commands together with BASH Scripts. - alx-low_level_programming/main.h at master · sammykingx/alx-low_level_programming">
+      <meta name="description" content="Starting my C Programming journey with some basic C commands together with BASH Scripts. - alx-low_level_programming/3-cp.c at master · sammykingx/alx-low_level_programming">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/8fafe3988bf8641738154a8b81cd2998076d9d19ce4a8ae2d7cb0e71a873c42d/sammykingx/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/main.h at master · sammykingx/alx-low_level_programming" /><meta name="twitter:description" content="Starting my C Programming journey with some basic C commands together with BASH Scripts. - alx-low_level_programming/main.h at master · sammykingx/alx-low_level_programming" />
-      <meta property="og:image" content="https://opengraph.githubassets.com/8fafe3988bf8641738154a8b81cd2998076d9d19ce4a8ae2d7cb0e71a873c42d/sammykingx/alx-low_level_programming" /><meta property="og:image:alt" content="Starting my C Programming journey with some basic C commands together with BASH Scripts. - alx-low_level_programming/main.h at master · sammykingx/alx-low_level_programming" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/main.h at master · sammykingx/alx-low_level_programming" /><meta property="og:url" content="https://github.com/sammykingx/alx-low_level_programming" /><meta property="og:description" content="Starting my C Programming journey with some basic C commands together with BASH Scripts. - alx-low_level_programming/main.h at master · sammykingx/alx-low_level_programming" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/8fafe3988bf8641738154a8b81cd2998076d9d19ce4a8ae2d7cb0e71a873c42d/sammykingx/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/3-cp.c at master · sammykingx/alx-low_level_programming" /><meta name="twitter:description" content="Starting my C Programming journey with some basic C commands together with BASH Scripts. - alx-low_level_programming/3-cp.c at master · sammykingx/alx-low_level_programming" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/8fafe3988bf8641738154a8b81cd2998076d9d19ce4a8ae2d7cb0e71a873c42d/sammykingx/alx-low_level_programming" /><meta property="og:image:alt" content="Starting my C Programming journey with some basic C commands together with BASH Scripts. - alx-low_level_programming/3-cp.c at master · sammykingx/alx-low_level_programming" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/3-cp.c at master · sammykingx/alx-low_level_programming" /><meta property="og:url" content="https://github.com/sammykingx/alx-low_level_programming" /><meta property="og:description" content="Starting my C Programming journey with some basic C commands together with BASH Scripts. - alx-low_level_programming/3-cp.c at master · sammykingx/alx-low_level_programming" />
       
     <link rel="assets" href="https://github.githubassets.com/">
 
@@ -148,7 +148,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/main.h" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/3-cp.c" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-out env-production page-responsive page-blob">
 
 
@@ -203,7 +203,7 @@
         <div class="flex-1">
           <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
             class="d-inline-block d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="89878b80e1b349eb80f1d2d35fea24d644e4801798e73e2e74bf638441750664"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/3-cp.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5d7f7344205b9c0636592b9a6474780c6ecf285c0bad9e299a6146d3766b060d"
           >
             Sign&nbsp;up
           </a>
@@ -586,7 +586,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="xPj8+0vE9X5twGDb27z/31nniwD4edoep+RVbhdWlBM5dy/Rle2gnA0yAw3+yhwQyrQkEOdcpROKys30g7J1pQ==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="eDMKfDrceb6uV7m0M57TlEpHRBYkfRBfo2QzJ2p36hVyg6CQrtwAb0Sz/Ktw5YQCkZWIatKo3i52xTm05qJLkw==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -766,9 +766,9 @@
             </div>
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
-            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fsammykingx%2Falx-low_level_programming%2Fblob%2Fmaster%2F0x15-file_io%2Fmain.h"
+            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fsammykingx%2Falx-low_level_programming%2Fblob%2Fmaster%2F0x15-file_io%2F3-cp.c"
               class="HeaderMenu-link HeaderMenu-link--sign-in flex-shrink-0 no-underline d-block d-lg-inline-block border border-lg-0 rounded rounded-lg-0 p-2 p-lg-0"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5090f3ebdc1820b97f9f766e6e8aa6df1959fe890b4ebbd82872c66b4ea0c13d"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/3-cp.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7a93d7dfab8709b26667818fa5f1de23e5f7354913504fae1fa05ae5f232aab3"
               data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
               Sign in
             </a>
@@ -776,7 +776,7 @@
 
             <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=sammykingx%2Falx-low_level_programming"
               class="HeaderMenu-link HeaderMenu-link--sign-up flex-shrink-0 d-none d-lg-inline-block no-underline border color-border-default rounded px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5090f3ebdc1820b97f9f766e6e8aa6df1959fe890b4ebbd82872c66b4ea0c13d"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/3-cp.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7a93d7dfab8709b26667818fa5f1de23e5f7354913504fae1fa05ae5f232aab3"
               data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
             >
               Sign up
@@ -883,13 +883,13 @@
       
 
   <li>
-            <a href="/login?return_to=%2Fsammykingx%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="651b023b3189000688bbfa0a1d23e05f94d74fcd3d1d5d04398ac1a82f04cb17" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+            <a href="/login?return_to=%2Fsammykingx%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/3-cp.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ec1c7fe6b3a4bb432081d18310af9f7d3bd9383abdd7a6e6176e5f689258cf89" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
 </a>  </li>
 
   <li>
-          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fsammykingx%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:499335676,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ae655c32092e4b008f76445cff68bced62c96f91f76b7c8af442feaf03991af4" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fsammykingx%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:499335676,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/3-cp.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dbeb54768af71f526337cd318c405c20148fc8cf12f2a371003007bcef3c6df6" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
     <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="40" data-view-component="true" class="Counter">40</span>
@@ -898,7 +898,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2Fsammykingx%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:499335676,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="02a2a95c31a69908dd36940d92be60939c22e769614c3a846a443580a24442c7" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+        <a href="/login?return_to=%2Fsammykingx%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:499335676,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/3-cp.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ec193e4ee15b0488ba527dd9abf8ff46c45abefd09bd007f69e15da903e8ce7d" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1074,7 +1074,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sammykingx/alx-low_level_programming/blob/cbc9b30694997839fe3d08711e50ef56bba596d1/0x15-file_io/main.h">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sammykingx/alx-low_level_programming/blob/cbc9b30694997839fe3d08711e50ef56bba596d1/0x15-file_io/3-cp.c">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1082,7 +1082,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:499335676,&quot;originating_url&quot;:&quot;https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6752d5b1f2ad664ee387d02361e913bd123b118caf1d906c8612e58a8592cfb8">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:499335676,&quot;originating_url&quot;:&quot;https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/3-cp.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b77fe5ebaaf3459938e10e09fe655422edf40bb34aecf65043133e65e51add87">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -1163,7 +1163,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/sammykingx/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x15-file_io/main.h" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/sammykingx/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x15-file_io/3-cp.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -1205,7 +1205,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/sammykingx/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x15-file_io/main.h" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/sammykingx/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x15-file_io/3-cp.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -1266,7 +1266,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/sammykingx/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/sammykingx/alx-low_level_programming/tree/master/0x15-file_io"><span>0x15-file_io</span></a></span><span class="separator">/</span><strong class="final-path">main.h</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/sammykingx/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/sammykingx/alx-low_level_programming/tree/master/0x15-file_io"><span>0x15-file_io</span></a></span><span class="separator">/</span><strong class="final-path">3-cp.c</strong>
   </h2>
     <a href="/sammykingx/alx-low_level_programming/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -1277,7 +1277,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:499335676,&quot;originating_url&quot;:&quot;https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f22256f57f1e8cbdb93d829640e5023126ec52e85c32745b60b7edcbbf8787ec" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/sammykingx/alx-low_level_programming/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:499335676,&quot;originating_url&quot;:&quot;https://github.com/sammykingx/alx-low_level_programming/blob/master/0x15-file_io/3-cp.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0390838fa2e026464c17a06e406a3efdf65ae2b13477cd851bd737f60ac53972" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/sammykingx/alx-low_level_programming/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -1289,13 +1289,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x15-file_io/main.h" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x15-file_io/3-cp.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/sammykingx/alx-low_level_programming/blob/cbc9b30694997839fe3d08711e50ef56bba596d1/0x15-file_io/main.h" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/sammykingx/alx-low_level_programming/blob/cbc9b30694997839fe3d08711e50ef56bba596d1/0x15-file_io/3-cp.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1326,7 +1326,7 @@
     <include-fragment src="/sammykingx/alx-low_level_programming/spoofed_commit_check/cbc9b30694997839fe3d08711e50ef56bba596d1" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/sammykingx/alx-low_level_programming/contributors/master/0x15-file_io/main.h" class="commit-loader">
+  <include-fragment src="/sammykingx/alx-low_level_programming/contributors/master/0x15-file_io/3-cp.c" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1356,20 +1356,20 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      15 lines (12 sloc)
+      70 lines (64 sloc)
       <span class="file-info-divider"></span>
-    350 Bytes
+    1.43 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/sammykingx/alx-low_level_programming/raw/cbc9b30694997839fe3d08711e50ef56bba596d1/0x15-file_io/main.h" href="/sammykingx/alx-low_level_programming/raw/master/0x15-file_io/main.h" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+        <a data-permalink-href="/sammykingx/alx-low_level_programming/raw/cbc9b30694997839fe3d08711e50ef56bba596d1/0x15-file_io/3-cp.c" href="/sammykingx/alx-low_level_programming/raw/master/0x15-file_io/3-cp.c" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Raw</span>
     </span>
 </a>  
-          <a data-permalink-href="/sammykingx/alx-low_level_programming/blame/cbc9b30694997839fe3d08711e50ef56bba596d1/0x15-file_io/main.h" href="/sammykingx/alx-low_level_programming/blame/master/0x15-file_io/main.h" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+          <a data-permalink-href="/sammykingx/alx-low_level_programming/blame/cbc9b30694997839fe3d08711e50ef56bba596d1/0x15-file_io/3-cp.c" href="/sammykingx/alx-low_level_programming/blame/master/0x15-file_io/3-cp.c" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Blame</span>
     </span>
 </a>  
@@ -1378,7 +1378,7 @@
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/sammykingx/alx-low_level_programming/edit/master/0x15-file_io/main.h" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KJgIxx_v5FcWZCpI_zWNyUGGpudnehAxIl-J4IImIl3h_TNPQIRx0JIDXDYip65JeG13NX7tI5KquorA0YvkDg" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/sammykingx/alx-low_level_programming/edit/master/0x15-file_io/3-cp.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oCocdH7aWhKJSBIjfctUH20aqRD3CK2hJXfzdaAD_PjbKASZ6g1TGP_JTmvJIXdEAbabXfzVkDQ9bzdxNfhOLA" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -1388,7 +1388,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/sammykingx/alx-low_level_programming/edit/master/0x15-file_io/main.h" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="-vbU6KFs_OUqYXhGL3pkoCUzsO82Ilir-erKdCzJB-Qzk-9g_gdpYq4GDjjy6EcgHNhhPS-1awhxD8lUf2TBtw" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/sammykingx/alx-low_level_programming/edit/master/0x15-file_io/3-cp.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Hllg4_BeHrlrPQ6gnuJ3l2tfHek9_t4TtEdDWpenaVllW3gOZIkXsx28UugqCFTMB_MvpDYj44asX4deAlzbjQ" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -1439,14 +1439,14 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/sammykingx/alx-low_level_programming/raw/master/0x15-file_io/main.h">
+            <a class="dropdown-item" href="/sammykingx/alx-low_level_programming/raw/master/0x15-file_io/3-cp.c">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/sammykingx/alx-low_level_programming/blame/master/0x15-file_io/main.h">
+              <a class="dropdown-item" href="/sammykingx/alx-low_level_programming/blame/master/0x15-file_io/3-cp.c">
                 View blame
               </a>
             </li>
@@ -1485,69 +1485,292 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x15-file_io/main.h">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x15-file_io/3-cp.c">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">ifndef</span> MAIN_H</td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>main.h<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">define</span> <span class="pl-en">MAIN_H</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * error_file - checks if files can be opened.</span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>sys/types.h<span class="pl-pds">&gt;</span></span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @file_from: file_from.</span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>sys/stat.h<span class="pl-pds">&gt;</span></span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @file_to: file_to.</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>fcntl.h<span class="pl-pds">&gt;</span></span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @argv: arguments vector.</span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>unistd.h<span class="pl-pds">&gt;</span></span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: no return.</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>stdio.h<span class="pl-pds">&gt;</span></span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>stdlib.h<span class="pl-pds">&gt;</span></span></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">error_file</span>(<span class="pl-k">int</span> file_from, <span class="pl-k">int</span> file_to, <span class="pl-k">char</span> *argv[])</td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">{</td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">ssize_t</span> <span class="pl-en">read_textfile</span>(<span class="pl-k">const</span> <span class="pl-k">char</span> *filename, <span class="pl-c1">size_t</span> letters);</td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (file_from == -<span class="pl-c1">1</span>)</td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">create_file</span>(<span class="pl-k">const</span> <span class="pl-k">char</span> *filename, <span class="pl-k">char</span> *text_content);</td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">	{</td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">append_text_to_file</span>(<span class="pl-k">const</span> <span class="pl-k">char</span> *filename, <span class="pl-k">char</span> *text_content);</td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">dprintf</span>(STDERR_FILENO, <span class="pl-s"><span class="pl-pds">&quot;</span>Error: Can&#39;t read from file <span class="pl-c1">%s</span><span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>, argv[<span class="pl-c1">1</span>]);</td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">exit</span>(<span class="pl-c1">98</span>);</td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">endif</span></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">	}</td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (file_to == -<span class="pl-c1">1</span>)</td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">	{</td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">dprintf</span>(STDERR_FILENO, <span class="pl-s"><span class="pl-pds">&quot;</span>Error: Can&#39;t write to <span class="pl-c1">%s</span><span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>, argv[<span class="pl-c1">2</span>]);</td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">exit</span>(<span class="pl-c1">99</span>);</td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">	}</td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * main - check the code for Holberton School students.</span></td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @argc: number of arguments.</span></td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @argv: arguments vector.</span></td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: Always 0.</span></td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">main</span>(<span class="pl-k">int</span> argc, <span class="pl-k">char</span> *argv[])</td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> file_from, file_to, err_close;</td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">ssize_t</span> nchars, nwr;</td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">char</span> buf[<span class="pl-c1">1024</span>];</td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (argc != <span class="pl-c1">3</span>)</td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">	{</td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">dprintf</span>(STDERR_FILENO, <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-c1">%s</span><span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Usage: cp file_from file_to<span class="pl-pds">&quot;</span></span>);</td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">exit</span>(<span class="pl-c1">97</span>);</td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">	}</td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line">	file_from = <span class="pl-c1">open</span>(argv[<span class="pl-c1">1</span>], O_RDONLY);</td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">	file_to = <span class="pl-c1">open</span>(argv[<span class="pl-c1">2</span>], O_CREAT | O_WRONLY | O_TRUNC | O_APPEND, <span class="pl-c1">0664</span>);</td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">error_file</span>(file_from, file_to, argv);</td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">	nchars = <span class="pl-c1">1024</span>;</td>
+        </tr>
+        <tr>
+          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">while</span> (nchars == <span class="pl-c1">1024</span>)</td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line">	{</td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line">		nchars = <span class="pl-c1">read</span>(file_from, buf, <span class="pl-c1">1024</span>);</td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (nchars == -<span class="pl-c1">1</span>)</td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">error_file</span>(-<span class="pl-c1">1</span>, <span class="pl-c1">0</span>, argv);</td>
+        </tr>
+        <tr>
+          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">		nwr = <span class="pl-c1">write</span>(file_to, buf, nchars);</td>
+        </tr>
+        <tr>
+          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (nwr == -<span class="pl-c1">1</span>)</td>
+        </tr>
+        <tr>
+          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
+          <td id="LC53" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">error_file</span>(<span class="pl-c1">0</span>, -<span class="pl-c1">1</span>, argv);</td>
+        </tr>
+        <tr>
+          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
+          <td id="LC54" class="blob-code blob-code-inner js-file-line">	}</td>
+        </tr>
+        <tr>
+          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
+          <td id="LC55" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
+          <td id="LC56" class="blob-code blob-code-inner js-file-line">	err_close = <span class="pl-c1">close</span>(file_from);</td>
+        </tr>
+        <tr>
+          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
+          <td id="LC57" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (err_close == -<span class="pl-c1">1</span>)</td>
+        </tr>
+        <tr>
+          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
+          <td id="LC58" class="blob-code blob-code-inner js-file-line">	{</td>
+        </tr>
+        <tr>
+          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
+          <td id="LC59" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">dprintf</span>(STDERR_FILENO, <span class="pl-s"><span class="pl-pds">&quot;</span>Error: Can&#39;t close fd <span class="pl-c1">%d</span><span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>, file_from);</td>
+        </tr>
+        <tr>
+          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
+          <td id="LC60" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">exit</span>(<span class="pl-c1">100</span>);</td>
+        </tr>
+        <tr>
+          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
+          <td id="LC61" class="blob-code blob-code-inner js-file-line">	}</td>
+        </tr>
+        <tr>
+          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
+          <td id="LC62" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
+          <td id="LC63" class="blob-code blob-code-inner js-file-line">	err_close = <span class="pl-c1">close</span>(file_to);</td>
+        </tr>
+        <tr>
+          <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
+          <td id="LC64" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (err_close == -<span class="pl-c1">1</span>)</td>
+        </tr>
+        <tr>
+          <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
+          <td id="LC65" class="blob-code blob-code-inner js-file-line">	{</td>
+        </tr>
+        <tr>
+          <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
+          <td id="LC66" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">dprintf</span>(STDERR_FILENO, <span class="pl-s"><span class="pl-pds">&quot;</span>Error: Can&#39;t close fd <span class="pl-c1">%d</span><span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>, file_from);</td>
+        </tr>
+        <tr>
+          <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
+          <td id="LC67" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">exit</span>(<span class="pl-c1">100</span>);</td>
+        </tr>
+        <tr>
+          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
+          <td id="LC68" class="blob-code blob-code-inner js-file-line">	}</td>
+        </tr>
+        <tr>
+          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
+          <td id="LC69" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> (<span class="pl-c1">0</span>);</td>
+        </tr>
+        <tr>
+          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
+          <td id="LC70" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
   </table>
 </div>
@@ -1573,7 +1796,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/sammykingx/alx-low_level_programming/blame/cbc9b30694997839fe3d08711e50ef56bba596d1/0x15-file_io/main.h">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/sammykingx/alx-low_level_programming/blame/cbc9b30694997839fe3d08711e50ef56bba596d1/0x15-file_io/3-cp.c">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/sammykingx/alx-low_level_programming/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
